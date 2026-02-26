@@ -1,4 +1,4 @@
-# aws-high-availability-web-app
+# AWS-High-Availability-Web-App
 Highly available web application using EC2, ALB, and Auto Scaling
 # Highly Available Web Application on AWS
 
