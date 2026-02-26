@@ -17,4 +17,4 @@ User → Application Load Balancer → EC2 instances (Multi-AZ)
 ## Why This Architecture
 - Ensures high availability
 - Handles traffic spikes automatically
-- Avoids single point of failure
+- Avoids single point of failure.
